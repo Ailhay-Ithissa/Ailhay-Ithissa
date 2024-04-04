@@ -15,5 +15,7 @@ Discord: https://discord.gg/spc6X3pPsd
 [dotfiles](https://github.com/Ailhay-Ithissa/dotfiles) some dotfiles from my personal arch linux install
 
 ## Gaming
+
 [Ailhay's Custom](https://github.com/Ailhay-Ithissa/Ailhay-s-Custom) My personal skin for osu!game.
+
 [Resource Taiga](https://github.com/Ailhay-Ithissa/resource-Taiga) OSRS resource pack based around Taiga Aisaka from Toradora.
