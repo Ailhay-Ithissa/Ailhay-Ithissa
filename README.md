@@ -13,6 +13,7 @@ Discord: https://discord.gg/spc6X3pPsd
 # Repos
 
 [dotfiles](https://github.com/Ailhay-Ithissa/dotfiles) some dotfiles from my personal arch linux install
+[ailhay.com](https://github.com/Ailhay-Ithissa/ailhay.com) the files for my personal website, [ailhay.com](https://www.ailhay.com)
 
 ## Gaming
 
